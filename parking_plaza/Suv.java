@@ -3,12 +3,12 @@ package parking_plaza;
 public class Suv extends Car {
 	double length = 4.8;
 	double width = 2.5;
-	double coefficient_2 = length*width/4.0 ;
+	double coefficient_2 = (length*width)/(double)4.0 ;
 	
-	price_ticket = price*coefficient_2;
-	
-	public void pay() {
+	public double pay() {
+		price_ticket = coefficient*coefficient_2;
 		cash += price_ticket;
+		return cash;
 	}
 
 }
