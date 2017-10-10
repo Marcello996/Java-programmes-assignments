@@ -1,0 +1,22 @@
+Car, Suv, E
+Car, Suv, L, A000A
+Car, Suv, E
+Car, Sedan, E
+Bus, Camper, E
+Bike, Motorbike, E
+Car, Sedan, L, A001A
+Bus, Urban, E
+Bike, Cycle, E
+Bike, Cycle, E
+Bike, Cycle, E
+Bike, Cycle, E
+Bike, Motorbike, L, A000B
+Car, Suv, E
+Car, Sedan, E
+Bus, Camper, E
+Bus, Camper, E
+Bike, Cycle, L, A001B
+Bike, Cycle, L, A003B
+Bike, Cycle, L, A002B
+Car, Suv, L, A001A
+Car, Suv, L, A000A
